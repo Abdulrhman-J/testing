@@ -1,6 +1,9 @@
 # Tic Tac Toe
 This poject is for frontend of TicTacToe game.
 
+## Try my game 
+[Let's play](https://abdulrhman-j.github.io/testing/) 
+
 ## technologies used
 the technologies that I used are:
 * Texteditor: VS Code
